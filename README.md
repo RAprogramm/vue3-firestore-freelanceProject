@@ -1,19 +1,2 @@
-# freelance_project
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Test my project
+See on [FireBase](https://vue3-firebase-testing.firebaseapp.com/).
