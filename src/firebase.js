@@ -3,12 +3,12 @@ import "firebase/firestore";
 
 const settings = { timestampsInSnapshots: true };
 const config = {
-	apiKey: "AIzaSyCBxIL9S2xIGFCUq_c0qduSGFEZJMLv34Y",
-	authDomain: "vue3-firebase-testing.firebaseapp.com",
-	projectId: "vue3-firebase-testing",
-	storageBucket: "vue3-firebase-testing.appspot.com",
-	messagingSenderId: "117181060083",
-	appId: "1:117181060083:web:e526e4ab5c4c39beeff886"
+	apiKey: "...your own data from firebase...",
+	authDomain: "...your own data from firebase...",
+	projectId: "...your own data from firebase...",
+	storageBucket: "...your own data from firebase...",
+	messagingSenderId: "...your own data from firebase...",
+	appId: "...your own data from firebase..."
 };
 
 firebase.initializeApp(config);
